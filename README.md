@@ -4,7 +4,7 @@
 ![Dev since: 15 Nov 2017](https://img.shields.io/badge/Dev%20since-15%20Nov%202017-orange?style=for-the-badge)
 
 # Retro&Dev — Student · Developer · Builder
-<img align="right" width="320" src="./imgs/Profile.png" />
+<img align="right" width="320" src="./imgs/Profile.jpeg" />
 
 👋 Hello — I'm **Retro&Dev**.
 
